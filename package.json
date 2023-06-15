@@ -1,0 +1,24 @@
+{
+  "name": "keyword-splitter",
+  "version": "1.0.0",
+  "description": "The goal of this project is to create a tool that can help split a set of keyword phrases into two headings, applying custom rules.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build",
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkorolevdev/keyword-splitter.git"
+  },
+  "author": "kkorolevdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkorolevdev/keyword-splitter/issues"
+  },
+  "homepage": "https://github.com/kkorolevdev/keyword-splitter#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
